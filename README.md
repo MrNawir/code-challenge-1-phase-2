@@ -32,10 +32,6 @@ Bot Battlr is a React application that allows users to browse through a collecti
    ```bash
    npm install
    ```
-   or
-   ```bash
-   bun install
-   ```
 
 ## Running the Application
 
